@@ -1,0 +1,10 @@
+49-mqtt-wifi\mbutils.o: ..\FreeModbus\mbutils.c
+49-mqtt-wifi\mbutils.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+49-mqtt-wifi\mbutils.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+49-mqtt-wifi\mbutils.o: ..\FreeModbus\port.h
+49-mqtt-wifi\mbutils.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+49-mqtt-wifi\mbutils.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+49-mqtt-wifi\mbutils.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+49-mqtt-wifi\mbutils.o: ..\FreeModbus\mb.h
+49-mqtt-wifi\mbutils.o: ..\FreeModbus\mbport.h
+49-mqtt-wifi\mbutils.o: ..\FreeModbus\mbproto.h

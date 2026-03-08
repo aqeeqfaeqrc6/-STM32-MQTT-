@@ -1,0 +1,10 @@
+49-mqtt-wifi\cjson.o: ..\Core\Src\cJSON.c
+49-mqtt-wifi\cjson.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+49-mqtt-wifi\cjson.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+49-mqtt-wifi\cjson.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+49-mqtt-wifi\cjson.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+49-mqtt-wifi\cjson.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+49-mqtt-wifi\cjson.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+49-mqtt-wifi\cjson.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+49-mqtt-wifi\cjson.o: ../Core/Inc/cJSON.h
+49-mqtt-wifi\cjson.o: D:\Software\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
